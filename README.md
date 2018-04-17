@@ -25,4 +25,15 @@ A collection of the books that I have read that have helped me in life and my ca
 
 * [Grit: The Power of Passion and Perseverance](angeladuckworth.com/grit-book/) - This book has really helped me understand the value of Grit and the importance of finding my passion.
 * [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.stephencovey.com/7habits/7habits.php) - The book that inspired me to start changing my life into what I really want.
+* [1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) - A book dedicated to informing the public of the dangers that government surveilance and totalitarianism pose. Incredibly eye opening read from the perspective of a citizen in a society where only your thoughts are safe from persecution.
+* [Animal Farm](https://en.wikipedia.org/wiki/Animal_Farm) - Another book by George Orwell that reflects upon the events leading up to the Russian revolution of 1917, portrayed through a story of animals on a farm.
+
+## [↑](#general-education) General Education
+Mediums in which to further your education in any subject.
+
+* [Coursera](https://www.coursera.org/) - This website offers free and paid courses on a wide variety of subjects but mainly focuses on software developement.
+* [Udemy](https://www.udemy.com/) - Same format as Coursera.
+* [Duolingo](https://www.duolingo.com/) - Free language learning courses taught through fun games.
+* [Khanacademy](https://www.khanacademy.org/) - Free non-profit website that teaches highschool and college level subjects. Great place to go for math.
+* 
 
