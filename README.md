@@ -7,6 +7,7 @@ A list of things that help me learn.
 - [General Education](#general-education)
 - [People of Interest](#-poi)
 - [Artificial Intelligence](#-ai)
+- [Podcasts](#-podcasts)
 
 ## [↑](#-youtube) Youtube
 One of the best resources on the internet for visualized learning. These are some of my favorite channels for learning new things and keeping my self immersed in emerging technologies and ideas.
@@ -35,5 +36,15 @@ Mediums in which to further your education in any subject.
 * [Udemy](https://www.udemy.com/) - Same format as Coursera.
 * [Duolingo](https://www.duolingo.com/) - Free language learning courses taught through fun games.
 * [Khanacademy](https://www.khanacademy.org/) - Free non-profit website that teaches highschool and college level subjects. Great place to go for math.
-* 
+
+## [↑](#-podcasts) Podcasts
+Podcasts I listen to on a regular basis. I like to use [Pocketcasts](https://www.shiftyjelly.com/pocketcasts/) to track the podcasts I'm currently following.
+
+* [TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/) - "A journey through fascinating ideas, astonishing inventions, and new ways to think and create. Based on riveting TEDTalks from the world's most remarkable minds."
+* [Freakonomics Radio](http://freakonomics.com/archive/) - "Host Stephen J. Dubner has surprising conversations that explore the riddles of everyday life and the weird wrinkles of human nature — from cheating and crime to parenting and sports. Dubner talks with Nobel laureates and provocateurs, social scientists and entrepreneurs"
+* [Science VS](https://www.gimletmedia.com/science-vs) - "Science Vs takes on fads, trends, and the opinionated mob to find out what’s fact, what’s not, and what’s somewhere in between."
+* [Dear HBR (Harvard Business Review)](https://hbr.org/2018/01/podcast-dear-hbr) - "The advice show for workplace dilemmas. We take your questions and offer a better way forward"
+* [NPR EMBD](https://www.npr.org/podcasts/510311/embedded) - "Host Kelly McEvers takes a story from the news and goes deep. Whether that means digging into the Trump administration's past, the stories behind police shootings caught on video, or visiting a town ravaged by the opioid epidemic, Embedded takes you where the news is happening."
+* [NPR Planet Money](https://www.npr.org/podcasts/510289/planet-money) - "The economy explained. Imagine you could call up a friend and say, "Meet me at the bar and tell me what's going on with the economy." Now imagine that's actually a fun evening."
+
 
