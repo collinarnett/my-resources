@@ -20,6 +20,7 @@ One of the best resources on the internet for visualized learning. These are som
 * [Philip DeFranco](https://www.youtube.com/user/sxephil/about) - 15 minutes of unbiased, mainstream news, 5 days a week.
 * [Essential Craftsman](https://www.youtube.com/channel/UCzr30osBdTmuFUS8IfXtXmg) - Tips for building projects, maintaining a good work ethic and other essential life skills.
 * [Janbrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg/featured) - Jabrils makes software prototypes and codes live on twitch. I like his videos due to their relaxed but informative tone.
+* [Louis Rossmann](https://www.youtube.com/user/rossmanngroup) - Repairs Macbooks and talks about the malpractice of the Apple ecosystem.
 
 ## [↑](#-books) Books
 A collection of the books that I have read that have helped me in life and my career.
