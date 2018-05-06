@@ -4,8 +4,8 @@ A list of things that help me learn.
 ## Table of Contents
 - [Youtube](#-youtube)
 - [Books](#-books)
-- [Websites](#websites)
-- [People of Interest](#-poi)
+- [Websites / Links](#websites)
+- [Projects](#projects)
 - [Artificial Intelligence](#-ai)
 - [Podcasts](#-podcasts)
 
@@ -30,8 +30,8 @@ A collection of the books that I have read that have helped me in life and my ca
 * [1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) - A book dedicated to informing the public of the dangers that government surveillance and totalitarianism pose. Incredibly eye opening read from the perspective of a citizen in a society where only your thoughts are safe from persecution.
 * [Animal Farm](https://en.wikipedia.org/wiki/Animal_Farm) - Another book by George Orwell that reflects upon the events leading up to the Russian revolution of 1917, portrayed through a story of animals on a farm.
 
-## [↑](#websites) Websites
-Sites that I think are interesting, informative or fun.
+## [↑](#websites) Websites or Links
+Sites or links that I think are interesting, informative or fun.
 
 * [Coursera](https://www.coursera.org/)
 * [Udemy](https://www.udemy.com/)
@@ -51,6 +51,20 @@ Sites that I think are interesting, informative or fun.
 * [AWS Educate](https://aws.amazon.com/education/awseducate/)
 * [Devhints](https://devhints.io/)
 
+## Links
+
+* [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
+* [How to build a simple neural network in 9 lines of Python code](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
+* [Preparing a Large-scale Image Dataset with TensorFlow's TFRecord Files](https://kwotsin.github.io/tech/2017/01/29/tfrecords.html)
+* []
+
+## [↑](#projects) Projects
+Projects I think are interesting or useful in my work.
+
+* [Magenta](https://github.com/tensorflow/magenta)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Pi-hole: A black hole for Internet advertisements](https://pi-hole.net/)
+* []
 
 
 ## [↑](#-podcasts) Podcasts
