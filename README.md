@@ -50,6 +50,7 @@ Sites or links that I think are interesting, informative or fun.
 * [Amazon Web Services](https://aws.amazon.com)
 * [AWS Educate](https://aws.amazon.com/education/awseducate/)
 * [Devhints](https://devhints.io/)
+* [The Twelve-Factor App](https://12factor.net/) - The enterprise way to deploy a application
 
 ## Links
 
