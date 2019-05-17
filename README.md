@@ -51,6 +51,7 @@ Sites or links that I think are interesting, informative or fun.
 * [AWS Educate](https://aws.amazon.com/education/awseducate/)
 * [Devhints](https://devhints.io/)
 * [The Twelve-Factor App](https://12factor.net/) - The enterprise way to deploy a application
+* [Full Stack Python](https://www.fullstackpython.com) - Enterprise Python developement from end to end.
 
 ## Links
 
@@ -58,6 +59,7 @@ Sites or links that I think are interesting, informative or fun.
 * [How to build a simple neural network in 9 lines of Python code](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
 * [Preparing a Large-scale Image Dataset with TensorFlow's TFRecord Files](https://kwotsin.github.io/tech/2017/01/29/tfrecords.html)
 * [Large Collection of Neural Nets, Numpy, Pandas, Matplotlib, Scikit and ML Cheat Sheets](https://www.datasciencecentral.com/profiles/blogs/large-collection-of-neural-networks-ml-numpy-pandas-matplotlib-sc)
+
 
 ## [↑](#projects) Projects
 Projects I think are interesting or useful in my work.
