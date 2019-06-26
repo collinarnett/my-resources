@@ -52,6 +52,7 @@ Sites or links that I think are interesting, informative or fun.
 * [Devhints](https://devhints.io/)
 * [The Twelve-Factor App](https://12factor.net/) - The enterprise way to deploy a application
 * [Full Stack Python](https://www.fullstackpython.com) - Enterprise Python developement from end to end.
+* [RealPython](https://realpython.com) - Real python examples to be deployed in production
 
 ## Links
 
@@ -67,7 +68,6 @@ Projects I think are interesting or useful in my work.
 * [Magenta](https://github.com/tensorflow/magenta)
 * [Tensorflow](https://www.tensorflow.org/)
 * [Pi-hole: A black hole for Internet advertisements](https://pi-hole.net/)
-* []
 
 
 ## [↑](#-podcasts) Podcasts
